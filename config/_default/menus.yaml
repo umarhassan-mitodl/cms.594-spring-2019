@@ -1,0 +1,40 @@
+leftnav:
+- identifier: 6ad9a22f-32a6-3ea6-0b75-02a0fb8db27e
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: acd0aeef-a4dc-9b9b-9d59-acb002925d49
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: dcbc5b94-c050-8ca0-9b7b-027356f9c3cb
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: c2a2d686-c608-ddd4-86f9-2d3221031f74
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: b74860cf-666d-4a97-3b25-31ebac86f8b0
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 50
+- identifier: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 60
+- identifier: ace93d2b-fbf7-732b-4baf-d796ac722cc5
+  name: Design Journal
+  pageRef: /pages/projects/design-journal
+  parent: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
+  weight: 70
+- identifier: 2b545b13-a200-3d58-2227-a594f59e26a4
+  name: Mini Projects
+  pageRef: /pages/projects/mini-projects
+  parent: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
+  weight: 80
+- identifier: 2307cf57-60eb-7e83-b3aa-c9be16cb1553
+  name: Final Project
+  pageRef: /pages/projects/final-project
+  parent: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
+  weight: 90
